@@ -8,3 +8,8 @@ cara yang saya lakukan adalah :<br>
 5. git add .<br>
 6. git commit -n "tulisan yang igin di tampilkan di github"<br>
 7. git push origin master
+
+
+## video
+untuk melihat caranya bisa kalian lihat di channel youtube
+https://youtu.be/2W6E3GTgkP0
